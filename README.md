@@ -14,7 +14,7 @@
 
 ### Links
 
-[<img height="26" src="https://shields.io/badge/bilibili-ffffff.svg?style=flat-square&logo=bilibili">](https://space.bilibili.com/128829597)
+[<img height="26" src="https://shields.io/badge/Bilibili-ffffff.svg?style=flat-square&logo=bilibili">](https://space.bilibili.com/128829597)
 [<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://weibo.com/u/2844571151)
 [<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/love-clean-24)
 [<img height="26" src="https://shields.io/badge/Github-ffffff.svg?style=flat-square&logo=github" alt="Github" />](https://github.com/LoveClean)
