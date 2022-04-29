@@ -1,6 +1,6 @@
 ## Hey, huangpengfei here! 👋
 
-### My name is HuangPengfei, a new student in Dalian Minzu University.
+### My name is HuangPengfei, a student in Dalian Minzu University.
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=LoveClean&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
 
