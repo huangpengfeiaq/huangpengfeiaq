@@ -17,8 +17,8 @@
 [<img height="26" src="https://shields.io/badge/Bilibili-ffffff.svg?style=flat-square&logo=bilibili">](https://space.bilibili.com/128829597)
 [<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://weibo.com/u/2844571151)
 [<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/love-clean-24)
-[<img height="26" src="https://shields.io/badge/Github-ffffff.svg?style=flat-square&logo=github" alt="Github" />](https://github.com/LoveClean)
-[<img height="26" src="https://shields.io/badge/Gitee-ffffff.svg?style=flat-square&logo=gitee" alt="Gitee" />](https://gitee.com/loveclean)
+[<img height="26" src="https://shields.io/badge/Github-ffffff.svg?style=flat-square&logo=github" alt="Github" />](https://github.com/huangpengfeiaq)
+[<img height="26" src="https://shields.io/badge/Gitee-ffffff.svg?style=flat-square&logo=gitee" alt="Gitee" />](https://gitee.com/huangpengfeiaq)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveClean&layout=compact"></img>
 
@@ -30,4 +30,4 @@
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
 ### 🤝🏻&nbsp;Connect with Me
-<a href="mailto:huangpengfei0512@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-huangpengfei0512@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:huangpengfeiaq@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-huangpengfeiaq@qq.com-blue?style=flat-square&logo=gmail"></a>
